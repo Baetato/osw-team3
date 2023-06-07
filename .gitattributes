@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ERICA.mp4 filter=lfs diff=lfs merge=lfs -text
+=======
+*.ext !text !filter !merge !diff
+>>>>>>> cb84e07 (first commit)
